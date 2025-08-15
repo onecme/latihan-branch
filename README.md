@@ -1,1 +1,1 @@
-# ini adalah latihan membuat -branch baru
+# ini adalah latihan membuat -branch baru untuk conflict
